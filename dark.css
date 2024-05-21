@@ -1,0 +1,52 @@
+body {
+    background-color: #111;
+    color: #fff;
+    font-family: 'Gothic', sans-serif;
+}
+
+header {
+    background-color: #222;
+    color: #fff;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: #333;
+    color: #fff;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #ff6347;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #dc143c;
+}html {
+  height: 100%;
+  width: 100%;
+}
